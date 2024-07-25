@@ -17,6 +17,9 @@ spring:
     job:
       enabled: false
 
+csv-file-path: ""
+chunk-size: ""
+
 decorator:
   datasource:
     enabled: false
