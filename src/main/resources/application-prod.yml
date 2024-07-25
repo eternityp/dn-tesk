@@ -17,6 +17,10 @@ spring:
     job:
       enabled: false
 
+decorator:
+  datasource:
+    enabled: false
+
 logging:
   level:
     kr.co.danal: error
